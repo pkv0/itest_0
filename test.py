@@ -9,3 +9,4 @@ n_bins = 20
 d1 = data.standard_nornal(n_points)
 d2 = 0.5 * data.standard_nornal(n_points)+5
 
+fig, ax = plt.subplots(1,2)
